@@ -1,1 +1,9 @@
-*/conversor_info_pdf_v_kuromi_bp
+# Entorno virtual del conversor PDF -> OCR
+desarollo conversor pdf a ocr/
+
+# Carpetas con material sensible / no listo para publicar
+propuestas/
+know_base/kb/
+
+# Assets sueltos
+bk_smiley_video_llamada.png
